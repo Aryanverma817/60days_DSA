@@ -1,0 +1,1 @@
+ int sum=first+second;
